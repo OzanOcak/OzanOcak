@@ -11,7 +11,7 @@ I build full‑stack applications that run in production.
 Authentication · Comments · Likes · Admin panel · Role‑based access  
 **Live over  1.5 years** · 1500+ visitors
 
-> Next.js · Node.js · PostgreSQL · JWT · OAuth · Raspberry Pi
+> Next.js React · Node.js · PostgreSQL · JWT · Axios · Zustand · React Query · OAuth · TOTP · Docker · Raspberry Pi
 
 ##### 🌐 [App defination and UML](full-stack-app.md)
 
