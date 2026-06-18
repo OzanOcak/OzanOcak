@@ -38,7 +38,7 @@ A complete blog platform with user accounts, Google login, comments, likes, admi
 
 ## Architecture Diagram
 
-![UML Diagram](full-stack-app-uml.md)
+[UML Diagram](full-stack-app-uml.md)
 
 ---
 
