@@ -46,10 +46,4 @@ A complete blog platform with user accounts, Google login, comments, likes, admi
 
 🌐 [https://oocak.com](https://oocak.com)
 
----
 
-## 📂 Related Links
-
-- [GitHub Profile](../README.md)
-- [Mobile App](https://apps.apple.com/app/your-app-id)
-- [LinkedIn](https://linkedin.com/in/yourprofile)
