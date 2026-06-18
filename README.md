@@ -23,8 +23,4 @@ Authentication · Comments · Likes · Admin panel · Role‑based access
 
 > React Native · iOS
 
----
 
-## 📫 Connect
-
-[GitHub](https://github.com/OzanOcak) · [LinkedIn](https://linkedin.com/in/yourprofile) · [Email](mailto:your.email@example.com)
