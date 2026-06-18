@@ -13,6 +13,8 @@ Authentication · Comments · Likes · Admin panel · Role‑based access
 
 > Next.js · Node.js · PostgreSQL · JWT · OAuth · Raspberry Pi
 
+### 🌐 [App defination and UML](./full-stack-app.md)
+
 ---
 
 ### 📱 [Mobile App](https://apps.apple.com/ca/app/smart-words-dictionary/id6748163293)
