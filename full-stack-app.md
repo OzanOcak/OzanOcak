@@ -44,7 +44,7 @@ A complete blog platform with user accounts, Google login, comments, likes, admi
 
 ## Live Demo
 
-🌐 [https://your-fullstack-app.com](https://oocak.com)
+🌐 [https://oocak.com](https://oocak.com)
 
 ---
 
