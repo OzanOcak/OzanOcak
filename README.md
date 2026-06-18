@@ -13,7 +13,7 @@ Authentication · Comments · Likes · Admin panel · Role‑based access
 
 > Next.js · Node.js · PostgreSQL · JWT · OAuth · Raspberry Pi
 
-### 🌐 [App defination and UML](.full-stack-app.md)
+##### 🌐 [App defination and UML](full-stack-app.md)
 
 ---
 
